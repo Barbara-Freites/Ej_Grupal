@@ -1,6 +1,4 @@
 ¡Hola equipo, bienvenidos!
-<<<<<<< HEAD
 Hola Soy valentina
-=======
 Mi nombre es Bárbara
->>>>>>> 6273f26c7ebdc671f08520893a60bb7f6fe8a013
+
